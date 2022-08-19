@@ -14,3 +14,4 @@
 ``player-signal-ingame playerSignal``  发送内容为 ``playerSignal`` 的信号，并让 Room 尝试将其传入自动机。
 
 ### Server 至 Client 的消息整理
+

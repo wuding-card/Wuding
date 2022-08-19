@@ -4,14 +4,18 @@
 
 ### 基础
 
-| 中文 | English   |
-| ---- | --------- |
-| 命火 | health    |
-| 灵力 | mana      |
-| 修为 | level     |
-| 法术 | sorcery   |
-| 法器 | equipment |
-| 法阵 | zisurru   |
+| 中文   | English   |
+| ------ | --------- |
+| 牌组   | deck      |
+| 命火   | health    |
+| 灵力   | mana      |
+| 修为   | level     |
+| 灵犀瓶 | library   |
+| 墓地   | graveyard |
+| 归墟   | blackhole |
+| 法术   | sorcery   |
+| 法器   | equipment |
+| 法阵   | zisurru   |
 
 ### 门派
 
