@@ -1,6 +1,6 @@
 import counterDictionary from "../assets/text/counter.json";
 import cardDescription from "../assets/text/cardDescription.json";
-import { CardState, GameStage, GameState } from "./interfaces";
+import { CardState, GameStage, GameState } from "./Interfaces";
 
 export const CounterDictionary: Record<string,string> = counterDictionary;
 

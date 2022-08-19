@@ -3,7 +3,7 @@ import './App.css';
 import LoginPage from './page/LoginPage';
 import ErrorPage from './page/ErrorPage';
 import GamePage from './page/GamePage';
-import { GameResult, GameStage, GameState, GameStep, RoomState} from './regulates/interfaces'
+import { GameResult, GameStage, GameState, GameStep, RoomState} from './regulates/Interfaces'
 import { socket } from './communication/connection';
 import { RoomPage } from './page/RoomPage';
 import { PlayerOperation } from './regulates/signals';

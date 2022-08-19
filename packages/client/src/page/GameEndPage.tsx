@@ -2,7 +2,7 @@ import React from "react";
 import './GameEndPage.css';
 
 
-import { GameResult, RoomState } from "../regulates/interfaces";
+import { GameResult, RoomState } from "../regulates/Interfaces";
 interface GameEndPageProps{
   gameResult: GameResult,
   roomState: RoomState,

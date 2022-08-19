@@ -1,18 +1,19 @@
 {
-	"private": true,
-	"scripts": {
-
+  "private": true,
+  "scripts": {
+    "client": "npm -w packages/client start",
+    "lobby": "npm -w packages/lobby start"
   },
-	"workspaces": [
+  "workspaces": [
     "packages/core",
-		"packages/client",
+    "packages/client",
     "packages/lobby"
-	],
-	"devDependencies": {
-		"@types/node": "16",
-		"esbuild": "^0.15.5",
-		"esbuild-register": "^3.3.3",
-		"eslint": "^8.22.0",
-		"typescript": "^4.7.4"
-	}
+  ],
+  "devDependencies": {
+    "@types/node": "16",
+    "esbuild": "^0.15.5",
+    "esbuild-register": "^3.3.3",
+    "eslint": "^8.22.0",
+    "typescript": "^4.7.4"
+  }
 }

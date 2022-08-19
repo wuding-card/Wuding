@@ -4,7 +4,7 @@ import gameBackground from '../assets/game-background.png';
 import './GamePage.css';
 import internal from 'stream';
 import { assert, countReset } from 'console';
-import { CardState, GameStage, GameState, GameStep, PlayerState} from '../regulates/interfaces';
+import { CardState, GameStage, GameState, GameStep, PlayerState} from '../regulates/Interfaces';
 import { numberAbbr, counterTranslate, showSect, showType, showLevel, getDescription, attributeTranslate, getCardStateByID } from '../regulates/utils';
 import { FilterBackground, PopupBtn } from './Composition';
 import { DEBUG_MODE } from '../regulates/settings';

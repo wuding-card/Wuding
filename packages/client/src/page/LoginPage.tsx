@@ -3,7 +3,7 @@ import logo from '../assets/logos/lowlogo.png';
 import './LoginPage.css';
 import internal from 'stream';
 import { Message, socket } from '../communication/connection';
-import { GameState } from '../regulates/interfaces';
+import { GameState } from '../regulates/Interfaces';
 import { getUUID } from '../regulates/utils';
 
 /* 主页面对应的 React 控件 */
