@@ -1,8 +1,13 @@
 {
 	"private": true,
 	"scripts": {
-		
-	},
+
+  },
+	"workspaces": [
+    "packages/core",
+		"packages/client",
+    "packages/lobby"
+	],
 	"devDependencies": {
 		"@types/node": "16",
 		"esbuild": "^0.15.5",
